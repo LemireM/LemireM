@@ -13,4 +13,5 @@ Stack MongoDB, Express, React, Node
 Contact
 
 📧 lemire.mael@gmail.com
+
 💼 https://www.linkedin.com/in/mael-lemire-058aa62a4/
